@@ -1,6 +1,12 @@
-![Banner](./images/banner.png)
+<h1 align="center">Aplicación Web con React</h1>
 
-# PROYECTO 5: Aplicación Web con React
+<p align="center">Una aplicación web donde podrás utlizar diferentes tecnologías en su desarrollo</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue" alt="Versión">
+  <img src="https://img.shields.io/badge/contribuidores-2-brightgreen" alt="Contribuidores">
+</p>
 
 ## **ÍNDICE**
 
@@ -95,22 +101,7 @@ A continuación, usarás esta lista para saber los requisitos mínimos del proye
 
 ****
 
-## 6. Criterios de evaluación
 
-A partir de los requisitos, tu % estará definido de esta forma:
-
-| ÁREA       | % DEL TOTAL |
-| ------------- |:-------------:|
-| REACT | 70%     |
-| CONTROL DE VERSIONES      | 15%     |
-| DESPLIEGUE | 10%      |
-| ENTREGA A TIEMPO | 5%      |
-
-****
-
-## 7. Entregas
-
-- **Definición de fechas.** Habla con tus coaches sobre el periodo de entregas del proyecto.
 
 - **Cumple con los requisitos y entregables.** En caso de que no logres cumplir con todos los requisitos, el % que obtendrás responderá a los criterios de evoluación. Es importante que entregues tu proyecto a tiempo. 
 
