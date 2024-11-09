@@ -1,7 +1,3 @@
-![Banner](./../images/banner.png)
-
-# PROYECTO 5: Demo
-
 **LINK A PRODUCCIÓN:** https://sevenm-fullstack-m5-proy.onrender.com
 
 ## Planteamiento
