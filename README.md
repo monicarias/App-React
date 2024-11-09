@@ -30,8 +30,6 @@ Para este proyecto, usarás React, una biblioteca JavaScript para construir inte
 
 ## 2. Demo
 
-Puedes acceder a la sección del demo directamente aqui: [LINK](https://github.com/UDDBootcamp/7M_FULLSTACK_M5_PROY/tree/master/demo)
-
 En esta demo, usamos una API llamada `https://exchangerate.host/`, la cual gratuitamente proporciona información histórica sobre las divisas en el tiempo.
 
 La idea es que revises la aplicación y sea una actividad de inspiración sobre qué aplicación quisieras crear tú desde el lado del Frontend, usando APIs.
