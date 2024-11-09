@@ -34,7 +34,7 @@ En esta demo, usamos una API llamada `https://exchangerate.host/`, la cual gratu
 
 La idea es que revises la aplicación y sea una actividad de inspiración sobre qué aplicación quisieras crear tú desde el lado del Frontend, usando APIs.
 
-![](./images/react-data-tables.gif)
+![]([./images/react-data-tables.gif](https://github.com/monicarias/App-React/blob/main/images/react-data-tables.gif?raw=true))
 
 
 ****
